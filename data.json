@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "name":"iphoneX",
+        "price":999
+    },
+    {
+        "id":2,
+         "name":"macbook pro",
+         "price":1999
+    },
+    {
+        "id":3,
+         "name":"macbook pro m1",
+         "price":2999
+    },
+    {
+        "id":4,
+         "name":"one plus nord 3",
+         "price":399
+    }
+]
